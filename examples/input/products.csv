@@ -1,0 +1,5 @@
+row_id,item_name,image_key,notes
+1,Demo Item A,DEMO-001,matched sample row
+2,Demo Item B,DEMO-002,matched sample row
+3,Demo Item C,DEMO-003,matched sample row
+4,Demo Item D,DEMO-404,missing image example
