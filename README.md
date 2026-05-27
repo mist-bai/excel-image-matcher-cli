@@ -1,5 +1,7 @@
 # Excel Image Matcher CLI
 
+[中文说明](README.zh-CN.md)
+
 A public-safe Python CLI that matches spreadsheet rows to image files, writes clean output CSV files, and produces validation logs.
 
 This project is designed as a small freelance-ready automation demo. It uses synthetic sample rows and placeholder SVG images only.
